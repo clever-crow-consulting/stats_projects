@@ -1,0 +1,21 @@
+{
+    "contents" : "",
+    "created" : 1362874589621.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "89F44678",
+    "lastKnownWriteTime" : 794915937,
+    "path" : null,
+    "properties" : {
+        "caption" : "samsungData",
+        "contentUrl" : "content?title=samsungData&file=1438bdc26aa44d89acc09604329ea0ca.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 100,
+        "totalObservations" : "7352",
+        "variables" : "563"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "load(\"./data/samsungData.rda\")\nwrite.csv(samsungData,file=\"./data/samsungData.csv\")\n#samsungData.train <- samsungData[samsungData$members in train.members]\n\n#train.subject <- c(1,3,5,6)\n\n#test.subject <- c(27,28,29,30)\n\n\n\n",
+    "created" : 1362874327413.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "755910580",
+    "id" : "4B4519FE",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
